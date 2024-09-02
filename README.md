@@ -1,2 +1,2 @@
-# Cloud Object Storage
-Cloud Object Storage
+# Object Storage Service
+Object Storage Service
